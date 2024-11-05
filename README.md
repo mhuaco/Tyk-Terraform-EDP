@@ -17,9 +17,9 @@ Before starting, ensure the following tools and setups are configured on your lo
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/terraform-tyk-stack.git
+git clone https://github.com/mhuaco/Tyk-Terraform-EDP.git
 
-cd terraform-tyk-stack
+cd Tyk-Terraform-EDP
 ```
 
 ### 2. Initialize Terraform
