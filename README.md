@@ -30,6 +30,7 @@ Run the following command to initialize the Terraform workspace. This will downl
 terraform init
 ```
 
+### 3. Update values.yaml file with Tyk-dashboard and EDP license
 
 ### 4. Apply the Configuration
 Use the following command to deploy the Tyk Stack and Enterprise Portal:
